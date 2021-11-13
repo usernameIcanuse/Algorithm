@@ -2,7 +2,7 @@
 #include<vector>
 using namespace std;
 /*1부터 n까지의 합을 계산하는 반복 함수와 재귀 함수*/
-
+//히히히
 int sum(int n) {
 	int ret = 0;
 	for (int i = 1; i <= n; i++)
